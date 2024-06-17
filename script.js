@@ -1,9 +1,6 @@
 function indexOfIgnoreCase(s1, s2) {
   // write your code here
-	text.trimStart();
-
-if(text.length == 0) return "";
-return text.charAt(0);
+	return s1.indexOf(s2);
 }
 
 // Please do not change the code below
